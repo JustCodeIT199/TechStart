@@ -311,6 +311,9 @@ pip install transformers peft accelerate
 
 ---
 
+## Author
+Om Sawant , Malhar Bhoir , Sumit Panmand
+
 ## License
 
 This project is intended for **educational and research purposes only**.
